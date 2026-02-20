@@ -1,0 +1,1 @@
+// repository/db.goでORMを使ってDBとのやり取りをする
